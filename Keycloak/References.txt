@@ -1,0 +1,2 @@
+[1] https://www.codecleaner.org/secure-springboot-app-without-any-code/
+[2] https://www.keycloak.org/docs/latest/server_admin/#:~:text=A%20realm%20manages%20a%20set,Keycloak%20to%20authenticate%20a%20user.
