@@ -1,0 +1,6 @@
+[1] https://docs.jboss.org/hibernate/orm/6.1/quickstart/html_single/
+[2] https://jakarta.ee/specifications/persistence/3.0/
+[3] https://tugrulbayrak.medium.com/hibernate-2-jdbc-jpa-entity-hibernate-kurulum-konfig%C3%BCrasyon-mysql-30fa801a0840
+[4] https://javabydeveloper.com/orm-object-relational-mapping/
+[5] https://www.javatpoint.com/orm-tools-in-java
+[6] https://www.baeldung.com/jpa-entities#:~:text=Entities%20in%20JPA%20are%20nothing,a%20row%20in%20the%20table.
