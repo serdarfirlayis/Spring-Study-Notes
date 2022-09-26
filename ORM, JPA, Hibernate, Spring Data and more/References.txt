@@ -5,3 +5,4 @@
 [5] https://www.javatpoint.com/orm-tools-in-java
 [6] https://www.baeldung.com/jpa-entities#:~:text=Entities%20in%20JPA%20are%20nothing,a%20row%20in%20the%20table.
 [7] https://sangaibisi.medium.com/hibernate-ve-spring-data-jpa-aras%C4%B1ndaki-fark-nedir-aab8274c41e4
+[8] https://dev.to/yigi/hibernate-vs-jdbc-vs-jpa-vs-spring-data-jpa-1421
