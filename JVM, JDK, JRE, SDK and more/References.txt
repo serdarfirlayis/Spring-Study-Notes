@@ -1,3 +1,4 @@
 [1] https://www.geeksforgeeks.org/differences-jdk-jre-jvm/
 [2] https://en.wikipedia.org/wiki/Java_virtual_machine
 [3] https://docs.oracle.com/cd/E19226-01/820-7759/gcrkk/index.html#:~:text=There%20are%20three%20platforms%20of,%2C%20Micro%20Edition%20(Java%20ME)
+[4] https://www.youtube.com/watch?v=mqECW8gfmkY&list=PLR_3k5Bkz0SBUUuA2JuzW4-7LP-dviNaX&index=8
